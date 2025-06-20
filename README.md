@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Madhumita Das</h1>
 <h3 align="center">🎓 B.Tech in Computer Science and Business Systems 📊 Aspiring Data Scientist | 💡 AI & ML Enthusiast | 🚀 Lifelong Learner</h3>
 
-- 🌱 I’m currently learning **Ml Algorithms**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, and NLP—exploring how models think, predict, and sometimes surprise you for no reason at all. I’m also experimenting with LLMs and AI-powered tools to build smarter, more intuitive applications. Along the way, I'm learning to clean messy data, visualize insights beautifully.**
 
 - 📫 How to reach me **madhumitadas1409@gmail.com**
 
@@ -9,9 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/madhumitadas14092004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/madhumitadas14092004" height="30" width="40" /></a>
+<a href="https://twitter.com/madhumitad1409" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="madhumitad1409" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/madhumitadas14092004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="madhumitadas14092004" height="30" width="40" /></a>
 <a href="https://kaggle.com/alina1409das" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alina1409das" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/itz.elina.14?igsh=mw9mmm4wahb5ajz1ba%3d%3d&utm_source=qr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/itz.elina.14?igsh=mw9mmm4wahb5ajz1ba%3d%3d&utm_source=qr" height="30" width="40" /></a>
+<a href="https://instagram.com/_itz.elina.14_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itz.elina.14_" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
